@@ -174,7 +174,7 @@
           <version>2.22.1</version>
           <configuration>
 					<suiteXmlFiles>
-						<suiteXmlFile>C:\Users\suman\eclipse-workspace\POM\Task1Test\src\main\resources\testngSuite.xml</suiteXmlFile>
+						<suiteXmlFile>C:\Users\suman\git\TestAutomationFramework\Task1Test\src\main\resources\TestngSuite.xml</suiteXmlFile>
 					</suiteXmlFiles>
 					<argLine>
                         -javaagent:"${settings.localRepository}/org/aspectj/aspectjweaver/${aspectj.version}/aspectjweaver-${aspectj.version}.jar"

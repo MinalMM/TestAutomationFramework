@@ -39,7 +39,7 @@ public class LoginPageTest extends TestBase{
 	@Story("Story Name: To check login page title")
 	public void loginPageTitleTest(){
 		String title = loginPage.validateLoginPageTitle();
-		Assert.assertEquals(title, "123Free CRM software for customer relationship management, sales, and support.");
+		Assert.assertEquals(title, "Free CRM software for customer relationship management, sales, and support.");
 	}
 	
 	@Test(priority=2, description = "Verifying application logo test" )
